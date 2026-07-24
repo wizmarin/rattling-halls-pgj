@@ -1,4 +1,4 @@
-# Practical Gaming Project - Rattling Halls
+# Rattling Halls - Practical Gaming Project
 ## :sparkles: About
 This repository holds my project for Practical Gaming module which is part of my Computer Science with Games Development degree. This module focuses on practical, project-based learning - coming up with a game idea, planning its implementation, building it, playtesting, and presenting the final product.
 
