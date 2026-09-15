@@ -32,10 +32,10 @@ Since I am starting to work on this project late and deadlines are short - roadm
 *Additions* - list where outlined steps for additional characters and enemies and will be completed if I would have time to do so before deadline (or if I will return to them later, I am not sure).
 
 ### <ins>Core Plan</ins>
-- [ ] Set up project structure and version control
-- [ ] Basic player movement
+- [x] Set up project structure and version control
+- [x] Basic player movement
 - [ ] Camera setup
-- [ ] Character 3D model + animations integrated
+- [x] Character 3D model + animations integrated
 - [ ] Random room generation
   - [ ] Create rooms prefabs to generate from
   - [ ] Room generation from the list of prefabs
